@@ -1,0 +1,25 @@
+{
+  "name": "stock-market",
+  "version": "1.0.0",
+  "description": "A stock simulator cool thing",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "tsc && node dist/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MMDDKK6500/stock.js"
+  },
+  "keywords": [
+    "cool",
+    "stock",
+    "simulator",
+    "fun"
+  ],
+  "author": "MMDDKK6500",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MMDDKK6500/stock.js/issues"
+  },
+  "homepage": "https://github.com/MMDDKK6500/stock.js#readme"
+}
