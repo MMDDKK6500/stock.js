@@ -28,8 +28,6 @@
   },
   "homepage": "https://github.com/MMDDKK6500/stock.js#readme",
   "devDependencies": {
-    "@tsconfig/node16": "^16.1.1",
-    "@tsconfig/node18": "^18.2.2",
     "@types/node": "^20.6.3",
     "typescript": "^5.2.2"
   },
